@@ -1,7 +1,7 @@
 33mailgen.py
 ==========================
 
-A simple Python script to generate a series of random 33mail.com e-mail addresses.
+A simple Python script to generate a series of random e-mail addresses using privacy focused 33mail.com.
 
 ## Script Setup
 
@@ -14,7 +14,7 @@ thirtythreemail = "@username.33mail.com" #Add your @username.33mail.com address 
 
 ## To Run
 
-Navigate to the 33mailgen folder, then:
+Navigate to the 33mailgen folder, then enter:
 ```bash
 python 33mailgen.py
 ```
